@@ -1,0 +1,22 @@
+{
+  "name": "learn-javascript-testing",
+  "version": "1.0.0",
+  "description": "Learning to use Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codepadawan93/learn-javascript-testing.git"
+  },
+  "author": "erik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codepadawan93/learn-javascript-testing/issues"
+  },
+  "homepage": "https://github.com/codepadawan93/learn-javascript-testing#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
